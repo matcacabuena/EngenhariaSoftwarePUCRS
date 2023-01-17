@@ -1,0 +1,5 @@
+arroz;"2";feijao;sim
+batata;"67";caramelo;sim
+massa;"5";doce;nao
+bacalhau;"1";uva;nao
+"00007331";"RONALDO JOSE DOS SANTOS";"Secretário de Área";"Técnico Administrativo"
